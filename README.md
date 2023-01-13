@@ -1,5 +1,10 @@
-# shiraz-takhfif
-
+## I use this Item in this project
+```
+vue cli
+Bootstrap
+axios library
+jsonplaceholder
+```
 ## Project setup
 ```
 npm install
